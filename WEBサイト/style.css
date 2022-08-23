@@ -1,0 +1,33 @@
+h1{
+    color: rgb(0, 255, 200); 
+}
+h2{
+    color: rgb(0, 255, 200); 
+}
+h5{
+    color: rgb(0, 255, 200); 
+}
+span{
+    color: rgb(0, 255, 200); 
+}
+
+p.sample img {
+    width: 50px;
+    }
+    p.sample2 img {
+        width: 1000px;
+        }
+
+    li {
+        display: inline-block;
+        vertical-align: top;
+        }
+
+.container a {
+    text-decoration: none;
+  }
+  nav {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
